@@ -1,0 +1,60 @@
+h1 {
+  color: purple;
+}
+
+.title {
+  font-size: 1.5rem;
+  padding-left: 10px;
+}
+
+.navigator {
+  border-bottom: solid 1px;
+}
+
+.title {
+  display: inline-block;
+}
+
+.main-nav {
+  display: inline-block;
+  width: 50%;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.main-nav li {
+  /* padding-right: 5%;
+  padding-left: 5%; */
+  margin-left: 10%;
+  margin-right: 10%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.socialnav {
+  float: right;
+  margin-top: 28px;
+  margin-right: 1%;
+}
+
+.art {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 50%;
+}
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul a {
+  text-decoration: none;
+}
+
+li {
+  display: inline;
+}
